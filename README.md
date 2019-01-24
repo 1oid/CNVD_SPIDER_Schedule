@@ -1,5 +1,10 @@
-### first commit
+### CNVD_SPIDER_Schedul
 ___
+
+#### 脚本说明
++ cnvd漏洞当天漏洞爬行
++ 定时发送邮件给多个用户(`config.py`配置)
+
 #### 所需环境
 ```
 python3
