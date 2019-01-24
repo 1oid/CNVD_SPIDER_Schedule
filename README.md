@@ -1,4 +1,4 @@
-### CNVD_SPIDER_Schedul
+### CNVD_SPIDER_Schedule
 ___
 
 #### 脚本说明
